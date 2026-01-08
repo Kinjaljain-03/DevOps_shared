@@ -1,3 +1,5 @@
+#This is the basic C program
+
 number = int(input("Enter a number: "))
 #if-else statement
 if number % 2 == 0:
